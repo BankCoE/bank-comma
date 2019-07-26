@@ -1,0 +1,14 @@
+{
+  "name": "bank-comma",
+  "version": "1.0.0",
+  "description": "This module for convert to value with commas as thousands. (e.g. 1000 -> 1,000)",
+  "main": "src/bankComma.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bankDev",
+  "license": "ISC"
+}
