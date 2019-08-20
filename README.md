@@ -13,7 +13,8 @@ $ npm install bank-comma --save
 ## How to use
 
 ```javascript
-const bankComma = require('bank-comma')
+import bankComma from 'bank-comma' // typescript
+const bankComma = require('bank-comma') // javascript
 
 const number = bankComma(1000)
 // log number is 1,000
